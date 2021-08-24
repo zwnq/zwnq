@@ -2,6 +2,7 @@
 
 I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad student from the Philippines! :philippines: 
 
+
 👀 I’m interested in:
 
 - Data Science and Analytics (AI/ML)
@@ -17,4 +18,4 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 - A personal discord bot that responds to a user based on trained intents using patterns and tags (Python).
 
 📫 How to reach me:
-***(unavailable for now)***
+- ***(unavailable for now)***

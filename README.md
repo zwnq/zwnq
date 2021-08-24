@@ -6,8 +6,8 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 👀 I’m interested in:
 
 - Data Science and Analytics (AI/ML)
-- Web and Game Development
 - Discord and Telegram bots
+- Web and Game Development
 
 🧐 I’m currently learning:
 

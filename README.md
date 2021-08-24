@@ -14,7 +14,7 @@ I am @zwnq or formally, Gil Andrew. I am a computer science undergrad student fr
 
 🧐 I’m currently working on:
 
-• A personal discord bot that responds to a user based on trained intents using patterns and tags.
+• A personal discord bot that responds to a user based on trained intents using patterns and tags (Python).
 
 📫 How to reach me:
 (unavailable for now)

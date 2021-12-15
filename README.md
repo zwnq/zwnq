@@ -15,7 +15,7 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 
 ⚡️ I’m currently working on:
 
-- A personal discord bot that responds to a user based on trained intents using patterns and tags (Python).
+- Finishing the semester first 
 
 📫 How to reach me:
 - ***(unavailable for now)***

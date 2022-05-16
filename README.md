@@ -16,7 +16,7 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 
 ⚡️ I’m currently working on:
 
-- Online courses, certifications, and bootcamps through DataCamp, Coursera, and LinkedIn Learning
+- Online courses, certifications, and bootcamps through DataCamp, Coursera, Khan Academy, and LinkedIn Learning
 
 📫 How to reach me:
 - ***(unavailable for now)***

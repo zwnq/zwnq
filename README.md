@@ -5,9 +5,10 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 
 👀 I’m interested in:
 
-- Data Science and Analytics (AI/ML)
-- Discord and Telegram bots
-- Web and Game Development
+- Data Science and Analytics
+- Statistics
+- Artificial Intelligence and Machine Learning
+- Software Development
 
 🧐 I’m currently learning:
 
@@ -15,7 +16,7 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 
 ⚡️ I’m currently working on:
 
-- Finishing the semester first 
+- Online courses, certifications, and bootcamps through DataCamp, Coursera, and LinkedIn Learning
 
 📫 How to reach me:
 - ***(unavailable for now)***

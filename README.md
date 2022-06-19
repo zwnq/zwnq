@@ -8,7 +8,7 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 - Data Science and Analytics
 - Statistics
 - Artificial Intelligence and Machine Learning
-- Software Development
+- Deep Learning
 
 🧐 I’m currently learning:
 

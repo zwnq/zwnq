@@ -13,7 +13,6 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 🧐 I’m currently learning:
 
 - Software Development through Spring
-- Image Denoising Algorithms
 - More Data Science, Data Engineering, and Data Analytics domain knowledge
 
 ⚡️ I’m currently working on:

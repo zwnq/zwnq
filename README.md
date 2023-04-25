@@ -13,7 +13,6 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 🧐 I’m currently learning:
 
 - Image Denoising Algorithms
-- MERN, MEAN, and Vue + Django + GraphQL Stacks
 - More Data Science, Data Engineering, and Data Analytics domain knowledge
 
 ⚡️ I’m currently working on:

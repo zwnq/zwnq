@@ -5,15 +5,14 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 
 👀 I’m interested in:
 
+- Full-Stack Development
+- Software Engineering
 - Data Science and Analytics
-- Statistics
 - Artificial Intelligence and Machine Learning
-- Full-Stack Web Development
 
 🧐 I’m currently learning:
 
 - Software Development through Spring
-- More Data Science, Data Engineering, and Data Analytics domain knowledge
 
 ⚡️ I’m currently working on:
 

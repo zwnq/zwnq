@@ -1,6 +1,6 @@
 # Hi! 👋 
 
-I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad student from the Philippines! :philippines: 
+I am *@zwnq* or formally, **Gil Andrew**. I am a fresh computer science graduate from the Philippines! :philippines: 
 
 
 👀 I’m interested in:
@@ -12,7 +12,7 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a computer science undergrad stud
 
 🧐 I’m currently learning:
 
-- Software Development through Spring
+- A LOT OF THINGS
 
 ⚡️ I’m currently working on:
 

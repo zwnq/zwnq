@@ -22,7 +22,7 @@ I am *@zwnq* or formally, **Gil Andrew**. I am a Software Engineer from the Phil
 
 - A proper portfolio website!
 - Spring Boot projects with Vue!
-- Axum and Leptos
+- A project using Axum and Leptosp
 - Using Rust for AI and ML
 
 

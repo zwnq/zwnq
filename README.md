@@ -1,22 +1,31 @@
 # Hi! 👋 
 
-I am *@zwnq* or formally, **Gil Andrew**. I am a fresh computer science graduate from the Philippines! :philippines: 
+I am *@zwnq* or formally, **Gil Andrew**. I am a Software Engineer from the Philippines! :philippines: 
 
 
 👀 I’m interested in:
 
-- Full-Stack Development
 - Software Engineering
-- Data Science and Analytics
 - Artificial Intelligence and Machine Learning
+- Data Science and Analytics
+
 
 🧐 I’m currently learning:
 
-- A LOT OF THINGS
+- Rust
+- Vue 3
+- Axum
+- Leptos
+
 
 ⚡️ I’m currently working on:
 
-- Online courses, certifications, and bootcamps through DataCamp, Coursera, Khan Academy, LinkedIn Learning, and more!
+- A proper portfolio website!
+- Spring Boot projects with Vue!
+- Axum and Leptos
+- Using Rust for AI and ML
+
 
 📫 How to reach me:
+
 - ***(unavailable for now)***
